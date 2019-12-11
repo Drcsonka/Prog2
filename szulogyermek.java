@@ -10,7 +10,7 @@ class szulo
         m_nev = nev;
     }
     
-    public int getNev() {
+    public int getNev2() {
         return m_kor;
     }
 }

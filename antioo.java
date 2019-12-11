@@ -17,7 +17,7 @@
  * @author Bátfai Norbert, nbatfai@inf.unideb.hu
  * @version 0.0.1
  */
-public class PiBBPBench {
+public class antioo {
     /**
      * BBP algoritmus a Pi-hez, a [BBP ALGORITMUS] David H. Bailey: The
      * BBP Algorithm for Pi. alapján a {16^d Sj} részlet kiszámítása.
